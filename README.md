@@ -1,3 +1,7 @@
 # CAP-394
 
-My discipline repository CAP394 Introduction to Data Science
+Meu repositório da disciplina CAP394 Introdução a Data Science
+
+Trabalho de Curso:
+
+- https://github.com/efurlanm/394/blob/master/proj-geop-saopaulo.ipynb
