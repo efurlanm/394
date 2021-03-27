@@ -1,6 +1,4 @@
-# CAP-394
-
-My course repository
+# My personal course repository
 
 Course work:
 
