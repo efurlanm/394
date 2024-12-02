@@ -1,5 +1,8 @@
-# My personal repository and course notes
+# Introduction to Data Science (CAP 394)
 
-Course work:
+My personal notes from the course and assignments.
 
-- https://github.com/efurlanm/394/blob/master/proj-geop-saopaulo.ipynb
+
+## Work
+
+- [proj-geop-saopaulo.ipynb](proj-geop-saopaulo.ipynb)
